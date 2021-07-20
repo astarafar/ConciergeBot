@@ -1,0 +1,6 @@
+bot:
+  prefox: c!
+api:
+  token: [ENTER DISCORD API TOKEN HERE]
+private_rooms:
+  category_id: [NUMERIC ID OF PRIVATE ROOM CATEGORY]
