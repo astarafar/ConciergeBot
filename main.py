@@ -1,13 +1,9 @@
 from discord.ext import commands
 from libs.config import config
 
-bot = commands.Bot(command_prefix='c!')
+bot = commands.Bot(command_prefix="c!")
 
-default_cogs = [
-    "cogsmgmt",
-    "basic",
-    "rooms"
-]
+default_cogs = ["cogsmgmt", "basic", "rooms"]
 
 
 @bot.event
